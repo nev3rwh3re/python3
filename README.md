@@ -1,1 +1,1 @@
-My notes and exercises for Python the hard way
+My notes and exercises for "Learn Python 3 the HARD WAY"

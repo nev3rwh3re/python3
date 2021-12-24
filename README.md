@@ -1,1 +1,1 @@
-My notes and exercises for "Learn Python 3 the HARD WAY"
+My notes and exercises for learning python 3 in 2022!
